@@ -62,3 +62,7 @@ An Excel dashboard was created to visualize:
 - sample_data.sql → Sample investment data
 - analysis_queries.sql → SQL analysis queries
 - Investment_Portfolio_Dashboard.xlsx → Dashboard visualization
+
+- ## Dashboard Preview
+
+![Investment Portfolio Dashboard](dashboard.png)
